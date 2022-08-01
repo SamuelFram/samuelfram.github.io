@@ -1,0 +1,36 @@
+.titulo-principal{
+    text-align: center;
+    font-size: 50px;
+  }
+
+  p{
+    text-align: center;
+    font-size: 20px; 
+} 
+.titulo-centralizado {
+    text-align: center;
+    font-size: 30px;
+    
+  }
+
+.enlace_productos{
+    font-size: 25px;
+  }
+
+  .imagen3{
+    width: max-content;
+    align-self: baseline;
+  }
+
+  .ubicacion{
+    margin: 0px auto;
+    background-color: azure;
+    font-style: italic;
+    font-size: x-large;
+    text-align: center;
+  }
+
+  div h2:hover{
+    color: blue;
+    text-decoration-line: underline;
+  }
